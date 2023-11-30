@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.scrollbarHide::-webkit-scrollbar {
+    display: none;
+  }
+  .active {
+    color: #64ffda;
+  }
